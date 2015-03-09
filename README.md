@@ -7,5 +7,5 @@ Using the dataset found here (https://s3.amazonaws.com/mindsumo/public/oscar_twe
 
 1) Popularity Rank: A list of the most tweeted about best picture nominees (ranked from 1-8) 
 2) Winner Announcement Prediction: Hour and minute when the winner (Birdman) was mentioned on Twitter most frequently 
-3) Location: A list of which states were the most active in tweeting about #Oscars2015 (rank ordered from most active to least)
+3) Location: A list of which states were the most active in tweeting about #Oscars2015 (rank ordered from most active to least) 
 
