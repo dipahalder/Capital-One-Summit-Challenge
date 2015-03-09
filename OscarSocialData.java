@@ -4,7 +4,7 @@
 
 import edu.princeton.cs.introcs.In;
 import java.io.File;
-import java.util.*;
+import java.util.*; 
 
 /* Tweet format reference:
 * Time 0, ID 1, Text 2, Retweets 3, GeoTag 4, PlaceTag 5, Favorites 6, 
